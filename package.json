@@ -3,6 +3,7 @@
     "expo-location": "*",
     "expo-notifications": "*",
     "expo-linear-gradient": "*",
+    "expo-image-picker": "*",
     "@expo/vector-icons": "*"
   }
 }
